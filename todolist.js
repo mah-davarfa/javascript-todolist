@@ -1,0 +1,4 @@
+const randomeJoke = ()=>{
+
+}
+randomeJoke();
