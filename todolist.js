@@ -12,6 +12,7 @@ const randomeJoke = ()=>{
         "An unexpected journey may be in your future. Don’t forget the GPS!"
     ];
     const joinTwoArray = [...jokes , ...astrology] ;
-    
+    const ramdomIndex = Math.floor(Math.random()*joinTwoArray.length);
+    console.log(joinTwoArray[ramdomIndex]);
 }
 randomeJoke();
