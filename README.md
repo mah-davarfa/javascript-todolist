@@ -13,4 +13,4 @@ This project is a simple **Random Joke Generator** built using **JavaScript**. T
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/random-joke-generator.git
+   git clone https://github.com/mah-davarfa/javascript-todolist.git
