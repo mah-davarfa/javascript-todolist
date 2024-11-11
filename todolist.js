@@ -11,5 +11,7 @@ const randomeJoke = ()=>{
         "The stars say it’s time to be bold, just like your font settings!",
         "An unexpected journey may be in your future. Don’t forget the GPS!"
     ];
+    const joinTwoArray = [...jokes , ...astrology] ;
+    
 }
 randomeJoke();
